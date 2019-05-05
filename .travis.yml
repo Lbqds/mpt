@@ -1,0 +1,11 @@
+os:
+  - linux
+
+language: go
+
+go:
+  - 1.14.x
+
+script:
+  - go build ./...
+  - go test -timeout 10m -v ./...
