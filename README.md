@@ -2,7 +2,7 @@
 
 the implementation of [merkle patricia trie](https://github.com/ethereum/wiki/wiki/Patricia-Tree)
 
-## what't the difference
+## what's the difference
 
 the differences with the implementation of go-ethereum:
 
